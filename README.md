@@ -17,8 +17,8 @@ Electronic Engineering - Universty of Buenos Aires
 
 📫 How to reach me: 
 
-linkedin.com/in/acss2198 
-email: anacss2198@gmail.com
+- linkedin: linkedin.com/in/acss2198 
+- email: anacss2198@gmail.com
 
 ⭐ Some fun facts!
 I am a lover arts painting. I have a rollerblades 😎
