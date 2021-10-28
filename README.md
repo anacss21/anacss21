@@ -4,34 +4,21 @@
 I am Ana Carolina, 
 Welcome my GitHub! I am new at here but very excited about that experience...
 
-⚡I’m currently   ...
--  JavaScript Developer Junior from Cubos Academy. 
+⚡ I'm a student currently JavaScript Developer Junior from Cubos Academy and i learning
 
-- 🌱 I’m currently learning ... 
+- HTML, React, CSS
+- Node.js, SQL, Git
 
-- HTML
-- React 
-- CSS
-- Node.js
-- SQL
-- Git
-
-- 👯 I’m looking to collaborate on ..
-
-- Web aplicattions
-
-🤔 I’m looking for help with ...
-
--I want to be a better developer with clean code. 
+👯 I’m looking to collaborate on Web aplicattions and help with clean code. 
 
 🏫 Graduating:
 
 Electronic Engineering - Universty of Buenos Aires
 
-📫 How to reach me: ...
+📫 How to reach me: 
 
-- linkedin: linkedin.com/in/acss2198 
-- email: anacss2198@gmail.com
+linkedin.com/in/acss2198 
+email: anacss2198@gmail.com
 
 ⭐ Some fun facts!
 I am a lover arts painting. I have a rollerblades 😎
