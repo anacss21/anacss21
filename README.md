@@ -13,11 +13,11 @@ Welcome my GitHub!
 
 🏫 Graduating:
 
-Electronic Engineering - University of Buenos Aires (https://www.fi.uba.ar/grado/carreras/ingenieria-electronica)
+[Electronic Engineering - University of Buenos Aires](https://www.fi.uba.ar/grado/carreras/ingenieria-electronica)
 
 📫 How to reach me: 
 
-- linkedin: linkedin.com/in/acss2198 
+- [linkedin](linkedin.com/in/acss2198)
 - email: anacss2198@gmail.com
 
 ⭐ Some fun facts!
