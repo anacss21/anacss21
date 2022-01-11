@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I am Ana Carolina, 
-Welcome my GitHub! I am new at here but very excited about that experience...
+Welcome my GitHub!
 
 ⚡ I'm a student currently JavaScript Developer Junior from Cubos Academy and i learning
 
