@@ -13,8 +13,7 @@ Welcome my GitHub!
 
 🏫 Graduating:
 
-Electronic Engineering - Universty of Buenos Aires
-
+Electronic Engineering - Univeristy of Buenos Aires 
 📫 How to reach me: 
 
 - linkedin: linkedin.com/in/acss2198 
@@ -28,19 +27,3 @@ Love Books, bike, and overthrow the patriarchy haha. I am a defensor for equal o
 
 Let's talk!
 
-
-
-<!--
-**anacss21/anacss21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-.
-
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
