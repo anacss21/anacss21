@@ -13,7 +13,7 @@ Welcome my GitHub!
 
 🏫 Graduating:
 
-Electronic Engineering - Univeristy of Buenos Aires 
+Electronic Engineering - University of Buenos Aires (https://www.fi.uba.ar/grado/carreras/ingenieria-electronica)
 
 📫 How to reach me: 
 
