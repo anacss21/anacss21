@@ -19,8 +19,9 @@ i'm a passionate Full Stack developer from Brazil.. a defensor for equal opportu
 
 email: anacss2198@gmail.com
 
-[![image](https://github-readme-stats.vercel.app/api/top-langs/?username=anacss21&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacss21&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+⚡ Github Stats
+
+[![image](https://github-readme-stats.vercel.app/api/top-langs/?username=anacss21&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacss21&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
 
