@@ -11,7 +11,7 @@ i'm a passionate Full Stack developer from Brazil.. a defensor for equal opportu
 
 🏫 Graduating:
 
-[Electronic Engineering - University of Buenos Aires](https://www.fi.uba.ar/grado/carreras/ingenieria-electronica)
+[Ciencias de la Computación - University of Buenos Aires](https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-de-la-computacion/)
 
 📫 How to reach me: 
 
