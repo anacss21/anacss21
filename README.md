@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-i'm a passionate Full Stack developer from Brazil.. a defensor for equal opportunity in the working space. And I believe in the future more diverse and inclusive.
+i'm a passionate developer from Brazil.. a defensor for equal opportunity in the working space. And I believe in the future more diverse and inclusive.
 
 ⚡ I'm a JavaScript Developer Junior and i worked with:
 
