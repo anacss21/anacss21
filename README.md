@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-i'm a passionate developer from Brazil.. a defensor for equal opportunity in the working space. And I believe in the future more diverse and inclusive.
+i'm a passionate developer from Brazil. A defensor for equal opportunity in the working space. And I believe in the future more diverse and inclusive.
 
 ⚡ My Teck Stacks:
 
@@ -11,7 +11,7 @@ i'm a passionate developer from Brazil.. a defensor for equal opportunity in the
 
 🏫 Graduating:
 
-[Ciencias de la Computación - University of Buenos Aires](https://futuros-estudiantes.dc.uba.ar/plan-de-estudios/)
+Systems analysis and development
 
 📫 How to reach me: 
 
